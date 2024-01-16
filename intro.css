@@ -345,12 +345,15 @@ img {
   font-size: 20px;
   border-radius: 10px;
 }
+.add-pictures{
+  margin-top: 3em;
+}
 .title-picture {
   font-size: 24px;
   font-weight: 500;
 }
 .group-friend-picture {
-  margin-top: 1em;
+  margin-top: 10px;
 }
 .friend-picture {
   margin-top: 2em;
