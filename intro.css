@@ -26,7 +26,7 @@ img {
 }
 /* Hero Section */
 #hero {
-  background-image: url(./laptop_cup_glasses.jpg);
+  background-image: url(./img/laptop_cup_glasses.jpg);
   background-size: cover;
   background-position: top cover;
   position: relative;
